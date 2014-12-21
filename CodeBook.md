@@ -1,4 +1,4 @@
-Measurement variables below are means calculated from raw measurements for 'subject and activity' combinations. The raw measurements were normalized and bounded within [-1,1]		
+Measurement variables below are means calculated from raw measurements for 'subject and activity' combinations. The raw measurements were normalized and bounded within [-1,1].		
 		
 **Variable**	**–**	**Definition (for measurements, definitions of original, raw variables are provided)**
 
